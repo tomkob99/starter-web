@@ -7,3 +7,7 @@ UUUUUUU
 ## Purpose
 
 Sample website with plenty of files for demos
+
+## GIT Comparison
+Adding Compare
+Plus Plus
